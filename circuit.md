@@ -1,0 +1,6 @@
+Soruda bize verilen tek sey bir lojik devre semasiydi. Goruntunun exifinde ve icine gomulmus herhangi bir dosya gozukmuyordu. Goruntuyu aperisolve.fr adresinde inceledim. Bu site cesitli steganografi toolarini resme uygulayip sonuclari guzel bir sekilde gosteriyor. 
+
+Aperi solve'un ciktisinda goruluyordu ki resmin ust kisminda bir binary string bulunmaktaydi. Resmin uzerinde bulunan string = `001011101100001000000100001111101100001000111101110101101011110000100011000100111011110100110010110000101110000100000101110000001100000111101011110100111110111000001001001010101011000011101000001011011101000100001100000011001100001000010100` seklindeydi. Bu stringi 3lu elemanlar halinde lojik devreden gecirip yeni bir binary string elde ettik.
+yeni_string =` 010100110101010001001101010000110101010001000110011110110100011001101100001101000100011101011111011001110011001101001110011001010101001000110100011101000011000001010010010111110100001100110001010100100110001101010101001100010101010001111101` seklinde olmustu. Bu stringi asci karakterlere cevirdigimizde flagi bulmus oluyorduk.
+
+Flag : STMCTF{Fl4G_g3NeR4t0R_C1RcU1T}

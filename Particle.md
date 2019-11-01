@@ -1,0 +1,10 @@
+Bu soruda bize bir zip dosyasi verilmisti, flag1401.zip isminde. Unzip ettigimizde bir text dosyasi ve bir zip arsivi daha cikti. 1400 tane zip dosyasini elle acmakla ugrasamazdik bunun icin basit bir python scripti yazdik. bu script yeni olusan text dosyasindaki karakteri hafizada tutup ic ice olan tum zipli dosyalari cikartiyordu. zipli dosyalardan cikan tum karakterleri uc uca ekledikten sonra  
+
+zeroonetwothreezeroonetwofourzerooneonefivezeroonezerothreezeroonetwofourzeroonezerosixzerooneseventhreezeroonezerothreezerosixzerozeroonefivesixzeroonezerosevenzeroonesixtwozerosixfourzeroonesixfourzerooneseventwozerofivesixzerofouronezeroonethreeonezeroonefivesevenzeroonesixfivezeroonethreesevenzeroonezerosixzerosixzerozeroonesixfivezeroonefivesixzeroonezerofourzeroonethreesevenzerooneonefivezerosixthreezeroonethreesevenzeroseventhreezerofiveonezeroonesevenfive 
+
+0123012401150103012401060173010306001560107016206401640172056041013101570165013701060600165015601040137011506301370730510175
+
+seklinde bir string olusuyordu. yaziyla yazilmis kelimeleri sayiya cevirdiktan sonra karsimiza asagidaki sayi dizisi cikiyordu. arada bulunan 0 degerleri harfler arasinda ayrim noktasi olarak belirlendigi goruluyordu. 123, 124, 115 gibi sayilar ise ASCII karakterlerinin octal tabandaki degerleriydi.
+
+
+Flag : STMCTF{C0nGr4tz.!You_F0unD_M3_;)}

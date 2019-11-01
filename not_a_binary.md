@@ -1,0 +1,3 @@
+Yarismanin en tuhaf sorularindan biriydi. icinde sifir ve birler olan bir string verilmisti soruda ve ben bir binary degilim diyordu. Sorunun aciklamasi olarak word-wrap yani ekrana sigmayan karakterleri alt satira basma ozelliginden bahsediyordu. Dolayisiyla o dosyayi herhangi bir text editorle ya da web tarayicisiyla actiktan sonra sayfanin boyutlariyla oynarayak bir sey cikip cikmadigina bakiyorduk. Birkac denemeden sonra STM harfleri belirdi. (Daha kolay bulmak icin editorde 1 karakterlerini arattik dolayisiyla 1'ler highlighted olmus oldu) Sifirlarin icinden birlerle yazilmis sekilde flag karsimizdaydi.
+
+Flag : STMCTF{dotMATRIX}
